@@ -1,5 +1,6 @@
-velocidade = float(input('Qual a velocidade do veículo? ')
+velocidade = float(input('Qual a velocidade do veículo? '))
+
 if velocidade > 80:
   print('Você será multado, por excesso de velocidade que é de 80km/h ')
 else:
-  print('Tenha uma ótima viagem! ') 
+  print('Tenha uma ótima viagem! ')
